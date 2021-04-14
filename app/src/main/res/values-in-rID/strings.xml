@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Copy isi dari "strings.xml" yang satunya ke dalam "strings.xml" ini-->
+<!--Lalu isi yang string di ubah jadi bahasa indonesia-->
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_webview">Webview</string>
+    <string name="action_logout">Keluar</string>
+    <!--Setelah membuat kode di atas, sekarng ke "MainActivity" tambahkan kode yang di komen (CL) -->
+</resources>
